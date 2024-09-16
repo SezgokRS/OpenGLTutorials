@@ -1,1 +1,4 @@
 C:\Dev\Visual Studio\Projects\OpenGlCourseApp\OpenGlCourseApp\main.cpp;C:\Dev\Visual Studio\Projects\OpenGlCourseApp\OpenGlCourseApp\x64\Debug\main.obj
+C:\Dev\Visual Studio\Projects\OpenGlCourseApp\OpenGlCourseApp\mesh.cpp;C:\Dev\Visual Studio\Projects\OpenGlCourseApp\OpenGlCourseApp\x64\Debug\mesh.obj
+C:\Dev\Visual Studio\Projects\OpenGlCourseApp\OpenGlCourseApp\shader.cpp;C:\Dev\Visual Studio\Projects\OpenGlCourseApp\OpenGlCourseApp\x64\Debug\shader.obj
+C:\Dev\Visual Studio\Projects\OpenGlCourseApp\OpenGlCourseApp\window.cpp;C:\Dev\Visual Studio\Projects\OpenGlCourseApp\OpenGlCourseApp\x64\Debug\window.obj
